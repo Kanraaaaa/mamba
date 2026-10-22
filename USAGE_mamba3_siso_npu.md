@@ -16,10 +16,6 @@ are both shown as runnable snippets. `is_outproj_norm=True` decode is out of sco
 
 ## Environment (measured, read-only)
 
-Conda env `mamba_py312`; measured `2026-10-22T11:37:04Z` by read-only `import` / reading `version.info`
-(nothing was installed or removed). Command prefix:
-`PY=/mnt/zsj/tools/miniconda3/envs/mamba_py312/bin/python`.
-
 | Package / component | Version (verbatim) |
 |---|---|
 | python | `3.12.0` |
